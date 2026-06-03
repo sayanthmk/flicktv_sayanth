@@ -9,7 +9,7 @@ class sayanthApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'sayanth',
+      title: 'Sayanth',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.dark(),
       builder: (context, child) {

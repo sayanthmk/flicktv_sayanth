@@ -1,4 +1,4 @@
-# flicktv_sayanth
+# Sayanth
 
 A new Flutter project.
 
